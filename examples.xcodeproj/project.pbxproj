@@ -97,6 +97,7 @@
 		1164CB2A237A66430087500E /* examples */ = {
 			isa = PBXGroup;
 			children = (
+				1164CB59237A68280087500E /* animations */,
 				1164CB2B237A66430087500E /* AppDelegate.swift */,
 				1164CB2D237A66430087500E /* ViewController.swift */,
 				1164CB2F237A66430087500E /* Main.storyboard */,
@@ -123,6 +124,13 @@
 				1164CB4D237A66460087500E /* Info.plist */,
 			);
 			path = examplesUITests;
+			sourceTree = "<group>";
+		};
+		1164CB59237A68280087500E /* animations */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = animations;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
